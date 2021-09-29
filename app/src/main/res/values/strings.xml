@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tipper</string>
+    <string name="tip">Tip</string>
+    <string name="total_amount">Total</string>
+    <string name="zero">0</string>
+    <string name="tips_slider">Tips Slider</string>
+    <string name="bill_amount">Bill amount</string>
+</resources>
